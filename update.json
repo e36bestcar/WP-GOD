@@ -1,6 +1,6 @@
 {
   "version": "6.4",
-  "download_url": "https://github.com/YOUR-USERNAME/wp-db-mover/releases/download/v6.4/wp-db-mover.zip",
+  "download_url": "https://github.com/e36bestcar/wp-db-mover/releases/download/v6.4/wp-db-mover.zip",
   "requires": "5.8",
   "requires_php": "7.4",
   "tested": "6.5",
